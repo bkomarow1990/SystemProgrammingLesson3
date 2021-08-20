@@ -1,0 +1,15 @@
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\bin\Debug\SystemProgrammingLesson3.exe.config
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\bin\Debug\SystemProgrammingLesson3.exe
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\bin\Debug\SystemProgrammingLesson3.pdb
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.csproj.AssemblyReference.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\MainWindow.g.cs
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\App.g.cs
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3_MarkupCompile.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3_MarkupCompile.lref
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\MainWindow.baml
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.g.resources
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.Properties.Resources.resources
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.csproj.GenerateResource.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.csproj.CoreCompileInputs.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.exe
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson3\SystemProgrammingLesson3\obj\Debug\SystemProgrammingLesson3.pdb
